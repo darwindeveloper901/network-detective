@@ -11,6 +11,8 @@ A Python tool for conducting rapid network investigations! 🚀
 - 💻 User-friendly command-line interface 
 - 📝 Generates detailed investigation reports 
 
+<img src="https://github.com/darwindeveloper901/network-detective/blob/main/assets/image.png"> 
+
 ## Usage
 1. Clone this repository to your local machine. 🔄
 2. Navigate to the project directory. 📁
